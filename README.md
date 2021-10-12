@@ -1,4 +1,4 @@
-Hi, I'm Akshay — a Full Stack Developer working on Student Grievance Cell. I live in Mumbai, Maharastra, India 🇮🇳. 
+Hi, I'm Akshay — a Full Stack Developer with rich experience in website design and building websites. Currently working on Student Grievance Cell. I live in Mumbai, Maharastra, India 🇮🇳. 
 <br>🙌 I'm a huge nerd/geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p>
 
 ## My values
