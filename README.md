@@ -1,6 +1,6 @@
 <h1>Hi, I'm Akshay</h1> <h3>A Full Stack Developer</h3> 
 <h4>Having great knowledge and experience in website design and building websites. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
-<br>🙌 I'm a huge nerd/geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p></h4>
+<br>🙌 I'm a geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p></h4>
 
 <h1 align="center">Let's Get Connected</h1>
 
