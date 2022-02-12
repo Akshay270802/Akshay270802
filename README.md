@@ -1,13 +1,6 @@
 <h1>Hi, I'm Akshay</h1> <h3>A Full Stack Developer</h3> 
-<h4>Having great knowledge and experience in website design and building websites. <br> Currently working on Student Grievance Cell. I live in Mumbai, Maharastra, India 🇮🇳. 
+<h4>Having great knowledge and experience in website design and building websites. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
 <br>🙌 I'm a huge nerd/geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p></h4>
-
-<h2>My values</h2>
-<h3>💖 Deep Thinking<br>
-🌟 Expression as authentic self<br>
-🍏 Beginner's mindset and curiosity<br>
-🙌 One Life, Shared norms<br>
-🚀 Elevate the underrepresented<br></h3>
 
 <h1 align="center">Let's Get Connected</h1>
 
