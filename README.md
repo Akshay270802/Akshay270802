@@ -1,8 +1,8 @@
-<h1>Hi, I'm Akshay</h1> <h3>A Full Stack Developer</h3> 
-<h4>Having great knowledge and experience in website design and building websites. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
+<h1 align="center">Hi, I'm Akshay</h1>
+<h4>A Full Stack Developer, having great knowledge and experience in website design and building websites. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
 <br>🙌 I'm a geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p></h4>
 
-<h1 align="center">Let's Get Connected</h1>
+<h2 align="center">Let's Get Connected</h2>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/akshay-panchal-542885212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
