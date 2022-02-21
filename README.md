@@ -2,7 +2,7 @@
 <h4>A Full Stack Developer, having great knowledge and experience in website design and building websites.
   And to accept the challenges and utilize my education more meaningfully in the sphere
 of technology and work hard towards achieving the goals of the organization. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
-<br>🙌 I'm a geek, tech enthusiast, soccer fan, and aspiring cosmologist.🌎 💕</p></h4>
+<br>🙌 I'm a geek, tech enthusiast, soccer fan.</p></h4>
 
 <h3 align="center">Let's Get Connected</h3>
 
