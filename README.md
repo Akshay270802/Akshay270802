@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akshay</h1>
+<h2 align="center">Hi, I'm Akshay</h2>
 <h4>A Full Stack Developer, having great knowledge and experience in website design and building websites.
   And to accept the challenges and utilize my education more meaningfully in the sphere
 of technology and work hard towards achieving the goals of the organization. <br> Currently working on Algorithm Visualizer. I live in Mumbai, Maharastra, India 🇮🇳. 
